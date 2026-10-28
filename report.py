@@ -57,7 +57,7 @@ BOT_TOKEN = "9235428441:AAEfJMFo_Z0T33SrRH0XmKOcnLzuoARUga8"
 OWNER_IDS = [8973767662,7210827441]
 SESSIONS_DIR = "sessions"
 SHARED_SESSIONS_DIR = "shared_sessions"
-REPORT_GROUP = -1003689608212
+REPORT_GROUP = 
 
 os.makedirs(SESSIONS_DIR, exist_ok=True)
 os.makedirs(SHARED_SESSIONS_DIR, exist_ok=True)
@@ -584,7 +584,7 @@ async def show_main_menu(event, user_id: int):
             "🔒 **Access Denied**\n\n"
             "━━━━━━━━━━━━━━━━━━━━\n\n"
             "You need an active subscription to use this bot.\n\n"
-            "Contact @pv_ghahreman to subscribe.\n\n"
+            "Contact @HeR_HoLiC18 & @Teamxr_Prime to subscribe.\n\n"
             "━━━━━━━━━━━━━━━━━━━━"
         )
 
