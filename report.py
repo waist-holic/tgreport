@@ -57,7 +57,7 @@ BOT_TOKEN = "9235428441:AAEfJMFo_Z0T33SrRH0XmKOcnLzuoARUga8"
 OWNER_IDS = [8973767662,7210827441]
 SESSIONS_DIR = "sessions"
 SHARED_SESSIONS_DIR = "shared_sessions"
-REPORT_GROUP = 
+REPORT_GROUP = ""
 
 os.makedirs(SESSIONS_DIR, exist_ok=True)
 os.makedirs(SHARED_SESSIONS_DIR, exist_ok=True)
